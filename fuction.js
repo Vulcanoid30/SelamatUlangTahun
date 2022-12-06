@@ -1,7 +1,7 @@
 var musik = "Musik satu.mp3";
 var background = "Foto satu.jpg";
 var ucapanSurat =
-  "Selamat ulang tahun yah sayang maaf cuman bisa kasih gini 😂 aku sayang kamu kok aku harap perasaan kamu ke aku tidak berubah aku jujur nggak terlalu jago bikin kata-kata romantis tapi yang aku bilang tadi itu tulus dari hati, harapanku untuk ulang tahun kali ini jangan sering marah-marah nanti cantiknya hilang lagi, terus aku mau nanya sayang mau Disney+ nggak?";
+  "Selamat ulang tahun yah sayang maaf cuman bisa kasih gini 😂 aku sayang kamu kok aku harap perasaan kamu ke aku tidak berubah aku jujur nggak terlalu jago bikin kata-kata romantis tapi yang aku bilang tadi itu tulus dari hati, harapanku untuk ulang tahun kali ini jangan sering marah-marah nanti cantiknya hilang lagi, terus aku mau nanya sayang mau Disney+ nggak? LOVE YOU SAYANG BY ADI❣️";
 var pesanWhatsapp = "Iyah Sayang makasih";
 
 var audio = document.querySelector(".audio");
